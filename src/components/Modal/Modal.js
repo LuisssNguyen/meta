@@ -3,7 +3,7 @@ import Modal from 'react-modal';
 import classNames from 'classnames/bind';
 import styles from './Modal.module.scss';
 import { X } from '@phosphor-icons/react';
-import images from '~/assets/images';
+import images from '../../assets/images';
 
 const cx = classNames.bind(styles);
 
